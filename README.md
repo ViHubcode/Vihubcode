@@ -67,15 +67,8 @@
 
 📬 **Connect with me**:
 - [LinkedIn](www.linkedin.com/in/vishwajeet-mirche)
-- [Twitter]([https://twitter.com/yourhandle](https://x.com/ViHubCode))
+- [Twitter]([https://twitter.com/yourhandle](https://x.com/ViHubCode])
 - [Email](mailto:your.email@example.com)
 
 Let's collaborate and make data-driven decisions that shape the future!
 
----
-
-Feel free to customize the links and any other details to better reflect your personal information and preferences.)
-- [Twitter](https://twitter.com/yourhandle)
-- [Email](mailto:your.email@example.com)
-
-Let's collaborate and make data-driven decisions that shape the future!
